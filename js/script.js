@@ -37,7 +37,7 @@ if (age > 65) {
 }
 
 if (isNaN(km) || isNaN(age)) {
-    document.getElementById("euros").innerHTML = alert("Attenzione! Valori non validi! (Ricaricare la pagina");
+    document.getElementById("euros").innerHTML = alert("Attenzione! Valori non validi! (Ricaricare la pagina)");
 }
 
 
